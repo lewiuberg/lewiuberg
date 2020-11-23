@@ -1,7 +1,7 @@
-### Hi there I'm [Lewi][website] 👋
+# Lewi Uberg
 ![](https://visitor-badge.glitch.me/badge?page_id=lewiuberg.lewiuberg)
 
-## I'm a husband, father of three boys, a former design egineer, and a final year data science student.
+**I'm a husband, father of three boys, a former design egineer, and a final year data science student.**
 
 - 🧐 I’m currently working on finishing my bachelor degree in applied data science.
 - 🤓 I’m currently learning what ever I get my hands on.

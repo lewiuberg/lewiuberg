@@ -46,27 +46,24 @@
 <br />
 <br />
 
+### Stats:
+
+<a href="https://github.com/lewiuberg/lewiuberg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiuberg&hide=java,html&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" />
+</a>
+<a href="https://github.com/lewiuberg/lewiuberg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewiuberg&show_icons=true&line_height=27&count_private=true&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" alt="Lewi's GitHub Stats" />
+</a>
+
 ### Projects:
-<!--PROJECTS:activity-->
-- [SimpleImputer](https://github.com/lewiuberg/SimpleImputer)
-<!-- PROJECTS:END -->
 
----
-
-<a href="https://github.com/lewiuberg/lewiuberg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiuberg&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/lewiuberg/lewiuberg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewiuberg&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lewi's GitHub Stats" />
-</a>
 <a href="https://github.com/lewiuberg/SimpleImputer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=SimpleImputer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=SimpleImputer&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" />
+</a>
+<a href="https://github.com/lewiuberg/moonshine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=moonshine&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" />
 </a>
 
-
-<a href="https://github.com/lewiuberg/moonshine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=moonshine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
 
 <!-- links to your social media accounts -->
 [website]: https://uberg.me

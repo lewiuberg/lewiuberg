@@ -3,9 +3,9 @@
 
 **I'm a husband, father of three boys, a former design egineer, and a final year data science student.**
 
-- 🧐 I’m currently working on finishing my bachelor degree in applied data science.
-- 🤓 I’m currently learning what ever I get my hands on.
-- 🪵 Fun fact: I love woodworking and like to spend my free time in my workshop.
+- I’m currently working on finishing my bachelor degree in applied data science.
+- I’m currently learning what ever I get my hands on.
+- Fun fact: I love woodworking and like to spend my free time in my workshop.
 
 ### Connect with me:
 
@@ -18,12 +18,12 @@
 ### Tools & Languages:
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-Terminal-informational?style=flat&logo=terminal&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-Homebrew-informational?style=flat&logo=homebrew&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/Code-NoSQL-informational?style=flat&logo=nosql&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=3572A5)
@@ -31,15 +31,15 @@
 ![](https://img.shields.io/badge/Tool-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Dash-informational?style=flat&logo=dash&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Kears-informational?style=flat&logo=keras&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Code-NoSQL-informational?style=flat&logo=nosql&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Cassandra-informational?style=flat&logo=cassandra&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/Tool-Terminal-informational?style=flat&logo=terminal&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/Tool-Homebrew-informational?style=flat&logo=homebrew&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Typesetting-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Typesetting-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=3572A5)
 <br />

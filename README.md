@@ -1,4 +1,4 @@
-# ![Lewi Uberg](www.uberg.me)
+# [Lewi Uberg](https://uberg.me)
 ![](https://visitor-badge.glitch.me/badge?page_id=lewiuberg.lewiuberg)
 
 **I'm a husband, father of three boys, a former design egineer, and a final year data science student.**

@@ -1,6 +1,8 @@
 # [Lewi Uberg](https://uberg.me)
 ![](https://visitor-badge.glitch.me/badge?page_id=lewiuberg.lewiuberg)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lewiuberg" alt="lewiuberg" /></a> </p>
+
 **I'm a husband, father of three boys, a former design egineer, and a final year data science student, currently working as a System Developer at [Anzyz Technologies](https://anzyz.com) in Grimstad, Norway.**
 
 - I’m currently working on finishing my bachelor degree in applied data science.
@@ -48,7 +50,7 @@
 ### Stats:
 
 <a href="https://github.com/lewiuberg/lewiuberg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiuberg&hide=java,html&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiuberg&hide=java,html&layout=compact&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" />
 </a>
 <a href="https://github.com/lewiuberg/lewiuberg">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewiuberg&show_icons=true&line_height=27&count_private=true&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" alt="Lewi's GitHub Stats" />

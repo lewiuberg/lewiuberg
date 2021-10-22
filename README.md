@@ -1,5 +1,6 @@
 # Hi, I'm [Lewi Uberg](https://uberg.me) 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=lewiuberg.lewiuberg)
+<a href="https://github.com/lewiuberg/stargazers"><img src="https://img.shields.io/github/stars/lewiuberg" alt="Stars Badge"/></a>
 
 **I'm a husband, father of three boys, a former design egineer, and a final year data science student, currently working as a System Developer at [Anzyz Technologies](https://anzyz.com) in Grimstad, Norway.**
 

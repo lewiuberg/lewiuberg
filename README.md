@@ -59,17 +59,24 @@
 
 ### Stats:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lewiuberg" alt="lewiuberg" /></a> </p>
-<a href="https://github.com/lewiuberg/lewiuberg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiuberg&hide=java,html&layout=compact&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lewiuberg&theme=nord" alt="lewiuberg" /></a> </p>
+<!-- <a href="https://github.com/lewiuberg/lewiuberg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiuberg&hide=java,html&layout=compact&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" />
 </a>
 <br>
 <a href="https://github.com/lewiuberg/lewiuberg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewiuberg&show_icons=true&line_height=27&count_private=true&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" alt="Lewi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewiuberg&show_icons=true&line_height=27&count_private=true&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" alt="Lewi's GitHub Stats" />
 </a>
 <a href="https://github.com/lewiuberg/lewiuberg">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lewiuberg&theme=default" alt="Lewi's GitHub Stats" />
-</a>
+</a> -->
+
+<!-- See: vn7n24fzkq/github-profile-summary-cards -->
+[![](https://raw.githubusercontent.com/lewiuberg/lewiuberg/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lewiuberg/lewiuberg/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lewiuberg/lewiuberg/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lewiuberg/lewiuberg/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lewiuberg/lewiuberg/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 
 ### Projects:
 
@@ -82,40 +89,40 @@
 <td>
 
 <a href="https://github.com/lewiuberg/visual-automata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=visual-automata&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=visual-automata&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
 <a href="https://github.com/lewiuberg/confprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=confprint&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=confprint&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
 <a href="https://github.com/lewiuberg/Imputer-from-skratch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=Imputer-from-skratch&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=Imputer-from-skratch&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
 <a href="https://github.com/lewiuberg/Active-Airport">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=Active-Airport&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=Active-Airport&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
 <a href="https://github.com/lewiuberg/MURA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=MURA&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=MURA&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
 <a href="https://github.com/lewiuberg/Setup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=Setup&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=Setup&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
 </td>
 <td>
 
 <a href="https://github.com/gahjelle/pyconfs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gahjelle&repo=pyconfs&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gahjelle&repo=pyconfs&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
 <a href="https://github.com/vchrombie/peodd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vchrombie&repo=peodd&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vchrombie&repo=peodd&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
 <a href="https://github.com/cair/TsetlinMachineBook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cair&repo=TsetlinMachineBook&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cair&repo=TsetlinMachineBook&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
 <a href="https://github.com/caleb531/automata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caleb531&repo=automata&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caleb531&repo=automata&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
 <a href="https://github.com/jupyter-lsp/jupyterlab-lsp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-lsp&repo=jupyterlab-lsp&title_color=323232&text_color=191919&icon_color=999999&bg_color=f5f5f5" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-lsp&repo=jupyterlab-lsp&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
 </td>
 </tr>

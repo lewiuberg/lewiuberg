@@ -141,7 +141,7 @@
 
 <!-- links to your social media accounts -->
 [website]: https://uberg.me
-[linkedin]: https://www.linkedin.com/in/lewi-uberg-01010100/
+[linkedin]: https://www.linkedin.com/in/lewiuberg/
 [medium]: https://lewiuberg.medium.com
 [pypi]: https://pypi.org/user/lewiuberg/
 [instagram]: https://www.instagram.com/lewiuberg/

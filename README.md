@@ -94,8 +94,8 @@
 <a href="https://github.com/lewiuberg/confprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=confprint&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
-<a href="https://github.com/lewiuberg/Imputer-from-skratch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=Imputer-from-skratch&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
+<a href="https://github.com/lewiuberg/imputer-from-scratch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=imputer-from-scratch&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
 <a href="https://github.com/lewiuberg/Active-Airport">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=Active-Airport&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>

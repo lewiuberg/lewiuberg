@@ -121,6 +121,9 @@
 <a href="https://github.com/caleb531/automata">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caleb531&repo=automata&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
+<a href="https://github.com/sepandhaghighi/pycm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sepandhaghighi&repo=pycm&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
+
 <a href="https://github.com/jupyter-lsp/jupyterlab-lsp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-lsp&repo=jupyterlab-lsp&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 

@@ -91,6 +91,9 @@
 <tr>
 <td>
 
+<a href="https://github.com/lewiuberg/tumorclass.info">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=tumorclass.info&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
+
 <a href="https://github.com/lewiuberg/visual-automata">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=visual-automata&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
@@ -112,6 +115,9 @@
 </td>
 <td>
 
+<a href="https://github.com/PuzzelSolutions/smsgw-client-python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PuzzelSolutions&repo=smsgw-client-python&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
+  
 <a href="https://github.com/gahjelle/pyconfs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gahjelle&repo=pyconfs&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 

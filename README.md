@@ -97,6 +97,9 @@
 <a href="https://github.com/lewiuberg/visual-automata">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=visual-automata&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
+<a href="https://github.com/lewiuberg/nortax">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=nortax&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
+
 <a href="https://github.com/lewiuberg/confprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=confprint&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 

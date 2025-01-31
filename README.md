@@ -146,9 +146,9 @@
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
-- [An Interactive Dashboard for Airport Traffic](https://towardsdatascience.com/an-interactive-dashboard-for-airport-traffic-40fcc3680042?source=rss-21eb3c1c3353------2)
-- [Imputer Class in Python from Scratch](https://towardsdatascience.com/imputer-class-in-python-from-scratch-66df6ae067e1?source=rss-21eb3c1c3353------2)
-- [A visual representation of named colors](https://towardsdatascience.com/exploring-colors-91d941775c5b?source=rss-21eb3c1c3353------2)
+- [An Interactive Dashboard for Airport Traffic](https://medium.com/towards-data-science/an-interactive-dashboard-for-airport-traffic-40fcc3680042?source=rss-21eb3c1c3353------2)
+- [Imputer Class in Python from Scratch](https://medium.com/towards-data-science/imputer-class-in-python-from-scratch-66df6ae067e1?source=rss-21eb3c1c3353------2)
+- [A visual representation of named colors](https://medium.com/towards-data-science/exploring-colors-91d941775c5b?source=rss-21eb3c1c3353------2)
 <!-- BLOG-POST-LIST:END -->
 
 

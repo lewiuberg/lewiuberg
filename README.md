@@ -115,6 +115,9 @@
 <a href="https://github.com/lewiuberg/Setup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=Setup&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
 
+<a href="https://github.com/lewiuberg/SlnQuickLook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewiuberg&repo=SlnQuickLook&title_color=ECEFF4&text_color=DEE2E9&icon_color=90BCBB&bg_color=2E3440" /></a>
+
 </td>
 <td>
 
